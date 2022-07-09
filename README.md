@@ -1,4 +1,4 @@
-# Election-Analysis
+# Stock Analysis
 
 ## Objectives
 we analyzed the performance of twelve different stocks across two years in order to identify trends and help guide clients in their portfolio decisions. To this end. We created a program that can take raw stock data from an Excel sheet and create a chart that, on an accessible glance, gives each stock, how active that stock was in a given year, and where that stock ended out in comparison to its start price for the year. 
